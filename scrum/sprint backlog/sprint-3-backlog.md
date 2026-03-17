@@ -40,6 +40,6 @@ Implementar as funcionalidades principais do sistema e iniciar a integração en
 
 ## Status
 
-* [ ] Não iniciado
+* [ x ] Não iniciado
 * [ ] Em andamento
 * [ ] Concluído
